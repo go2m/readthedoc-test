@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.abspath('../../src'))
 
 project = 'Coastal'
 copyright = '2021'
-author = 'Multiple'
+author = 'Uwe Strache'
 
 release = '0.1'
 version = '0.1.0'
